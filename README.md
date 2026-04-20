@@ -186,6 +186,8 @@ I am passionate about creating technologies that **enhance productivity, improve
 # 🧬 Philosophy
 
 > Code → Systems → Intelligence
+>
+
 > Build technology that **thinks, learns, and evolves.**
 
 ---
