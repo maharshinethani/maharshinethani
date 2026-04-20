@@ -26,10 +26,14 @@ Focused on combining:
 
 # 🧠 What I Actually Do
 
-✔ Design **AI-powered platforms** (Resume AI, Interview AI, Analytics AI)
-✔ Build **end-to-end full-stack systems**
-✔ Create **automation pipelines that replace manual workflows**
+✔ Design **AI-powered platforms** (Resume AI, Interview AI, Analytics AI) <br>
+
+✔ Build **end-to-end full-stack systems** <br>
+
+✔ Create **automation pipelines that replace manual workflows** <br>
+
 ✔ Transform raw data → **business intelligence**
+
 
 ---
 
