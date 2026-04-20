@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Rohit%20Chandra%20Maharshi&fontSize=45&fontColor=7dd3fc&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=7DD3FC&center=true&vCenter=true&width=850&lines=AI+Systems+Engineer;Full+Stack+Architect;Automation+Engineer;Building+Next+Generation+Intelligent+Platforms;Machine+Learning+%7C+Automation+%7C+Data+Intelligence"/>
-</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/AI%20Systems-Engineer-6366F1?style=for-the-badge"/>
