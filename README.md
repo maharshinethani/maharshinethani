@@ -1,11 +1,11 @@
-<!-- PREMIUM FUTURISTIC HEADER -->
+<!-- CINEMATIC FUTURISTIC HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Rohit%20Chandra%20Maharshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Rohit%20Chandra%20Maharshi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Full+Stack+Architect;Building+Scalable+Intelligent+Platforms;Automation+%7C+ML+%7C+Data+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Full+Stack+Architect;Building+Scalable+Intelligent+Platforms;Automation+%7C+Machine+Learning+%7C+Data+Systems"/>
 </p>
 
 ---
@@ -16,9 +16,9 @@ I design and build **intelligent systems** — not just applications.
 
 Focused on combining:
 
-* **AI/ML systems**
-* **Scalable backend architectures**
-* **Data-driven decision engines**
+• **AI / Machine Learning Systems**
+• **Scalable Backend Architectures**
+• **Data-Driven Decision Engines**
 
 > I don't just build projects — I build **systems that think, learn, and scale.**
 
@@ -27,13 +27,9 @@ Focused on combining:
 # 🧠 What I Actually Do
 
 ✔ Design **AI-powered platforms** (Resume AI, Interview AI, Analytics AI) <br>
-
 ✔ Build **end-to-end full-stack systems** <br>
-
 ✔ Create **automation pipelines that replace manual workflows** <br>
-
 ✔ Transform raw data → **business intelligence**
-
 
 ---
 
@@ -51,10 +47,10 @@ Focused on combining:
 
 🔗 https://rcmcareer.netlify.app
 
-* Resume Intelligence Engine
-* AI Job Matching System
-* Automated Interview Simulator
-* Skill Gap Detection
+• Resume Intelligence Engine
+• AI Job Matching System
+• Automated Interview Simulator
+• Skill Gap Detection
 
 ---
 
@@ -62,17 +58,17 @@ Focused on combining:
 
 🔗 https://qops.netlify.app
 
-* Workflow Optimization Engine
-* Predictive Operational Analytics
-* Decision Intelligence System
+• Workflow Optimization Engine
+• Predictive Operational Analytics
+• Decision Intelligence System
 
 ---
 
 ## 📊 Sales Intelligence Dashboard
 
-* Built using Power BI
-* Real-time KPI tracking
-* Business forecasting models
+• Built using Power BI
+• Real-time KPI tracking
+• Business forecasting models
 
 ---
 
@@ -86,28 +82,29 @@ Focused on combining:
 # 📊 Developer Intelligence
 
 <p align="center">
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
-
-
 
 # 🌐 Connect
 
 <p align="center">
 
 <a href="mailto:maharshinethani@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/nethani-rohit">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/maharshinethani">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
+<a href="https://rcmcareer.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
