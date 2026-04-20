@@ -1,97 +1,102 @@
-<!-- CINEMATIC HEADER -->
+<!-- PREMIUM FUTURISTIC HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:090979&height=280&section=header&text=Nethani%20Rohit%20Chandra%20Maharshi&fontSize=42&fontColor=00f7ff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Rohit%20Chandra%20Maharshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Building+Next+Generation+Intelligent+Systems;Machine+Learning+%7C+Automation+%7C+Data+Intelligence"/>
-</p>
-
----
-
-# ⚡ Architecting the Intelligence of Tomorrow
-
-AI & Full-Stack developer passionate about building **next-generation intelligent platforms**.
-
-I specialize in combining **Artificial Intelligence, Data Analytics, and Modern Web Technologies** to create scalable digital systems.
-
-My mission is to design **innovative software that solves real-world problems using intelligent automation and data-driven insights.**
-
----
-
-# 🧠 Core Domains
-
-🔹 Artificial Intelligence
-🔹 Machine Learning Systems
-🔹 Full-Stack Web Platforms
-🔹 Data Analytics & BI
-🔹 Intelligent Automation
-
----
-
-# ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,tailwind,nodejs,mongodb,sqlite,git,vscode"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00E5FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Full+Stack+Architect;Building+Scalable+Intelligent+Platforms;Automation+%7C+ML+%7C+Data+Systems"/>
 </p>
 
 ---
 
-# 🚀 Signature Projects
+# ⚡ Engineering Intelligence, Not Just Code
 
-## 🧠 AI Career Analysis & Recruitment Trainer
+I design and build **intelligent systems** — not just applications.
 
-AI platform that performs **resume analysis, job matching, and automated interview training**.
+Focused on combining:
+
+* **AI/ML systems**
+* **Scalable backend architectures**
+* **Data-driven decision engines**
+
+> I don't just build projects — I build **systems that think, learn, and scale.**
+
+---
+
+# 🧠 What I Actually Do
+
+✔ Design **AI-powered platforms** (Resume AI, Interview AI, Analytics AI)
+✔ Build **end-to-end full-stack systems**
+✔ Create **automation pipelines that replace manual workflows**
+✔ Transform raw data → **business intelligence**
+
+---
+
+# ⚙️ Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,sqlite,tailwind,git"/>
+</p>
+
+---
+
+# 🚀 Flagship Systems
+
+## 🧠 AI Career Intelligence Platform
 
 🔗 https://rcmcareer.netlify.app
+
+* Resume Intelligence Engine
+* AI Job Matching System
+* Automated Interview Simulator
+* Skill Gap Detection
 
 ---
 
 ## ⚡ Quantum Operational Intelligence System (QOIS)
 
-A platform designed for **quantum-inspired workflow optimization and operational analytics**.
-
 🔗 https://qops.netlify.app
 
----
-
-## 📊 Adidas Sales Intelligence Dashboard
-
-Advanced **Power BI analytics system** transforming sales data into actionable business insights.
+* Workflow Optimization Engine
+* Predictive Operational Analytics
+* Decision Intelligence System
 
 ---
 
-# 🏆 Achievements
+## 📊 Sales Intelligence Dashboard
 
-🥈 Runner-Up — **Amaravati Quantum Valley Hackathon**
-🏆 **Best Website Designer Award**
+* Built using Power BI
+* Real-time KPI tracking
+* Business forecasting models
 
 ---
 
-# 📊 GitHub Analytics
+# 🏆 Recognition
+
+🥈 Runner-Up — Amaravati Quantum Valley Hackathon
+🏆 Best Web Platform Design Award
+
+---
+
+# 📊 Developer Intelligence
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight"/>
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
@@ -111,12 +116,12 @@ Advanced **Power BI analytics system** transforming sales data into actionable b
 
 ---
 
+# 🧬 Philosophy
+
+> "Code is temporary. Systems are permanent. Intelligence is the future."
+
+---
+
 <p align="center">
-
-⭐ *Engineering intelligent systems that merge AI, data, and scalable software.*
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:020024&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
