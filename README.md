@@ -1,7 +1,7 @@
 <!-- 🌌 FUTURISTIC CINEMATIC HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Rohit%20Chandra%20Maharshi&fontSize=45&fontColor=7dd3fc&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:00e5ff,100:14ffec&height=260&section=header&text=Rohit%20Chandra%20Maharshi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 
