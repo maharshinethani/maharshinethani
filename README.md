@@ -1,59 +1,66 @@
+<!-- CINEMATIC HEADER -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:0f172a&height=260&section=header&text=Nethani%20Rohit%20Chandra%20Maharshi&fontSize=40&fontColor=00f2fe&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:090979&height=280&section=header&text=Nethani%20Rohit%20Chandra%20Maharshi&fontSize=42&fontColor=00f7ff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F2FE&center=true&vCenter=true&width=900&lines=Architecting+the+Intelligence+of+Tomorrow;AI+Engineer+%7C+Full+Stack+Architect;Building+Next+Generation+Intelligent+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Building+Next+Generation+Intelligent+Systems;Machine+Learning+%7C+Automation+%7C+Data+Intelligence"/>
 </p>
 
 ---
 
-# ⚡ Neural Intelligence
+# ⚡ Architecting the Intelligence of Tomorrow
 
-Generative AI • Multimodal Systems • Predictive Modeling
-Designing intelligent architectures powered by **Machine Learning and Automation**.
+AI & Full-Stack developer passionate about building **next-generation intelligent platforms**.
 
----
+I specialize in combining **Artificial Intelligence, Data Analytics, and Modern Web Technologies** to create scalable digital systems.
 
-# 🌐 Modern Ecosystems
-
-Scalable **React Applications** with high-performance backends using **FastAPI, MongoDB, and cloud deployment platforms**.
+My mission is to design **innovative software that solves real-world problems using intelligent automation and data-driven insights.**
 
 ---
 
-# 🛠 Technical Arsenal
+# 🧠 Core Domains
 
-| Domain        | Technologies                        |
-| ------------- | ----------------------------------- |
-| **Languages** | Python • JavaScript • Java          |
-| **Frontend**  | React • Tailwind CSS • HTML • CSS   |
-| **Backend**   | FastAPI • Node.js                   |
-| **Databases** | MongoDB • SQL • SQLite              |
-| **Tools**     | GitHub • VS Code • Netlify • Render |
+🔹 Artificial Intelligence
+🔹 Machine Learning Systems
+🔹 Full-Stack Web Platforms
+🔹 Data Analytics & BI
+🔹 Intelligent Automation
 
 ---
 
-# 🚀 Signature Works
+# ⚙️ Tech Stack
 
-### 🧠 AI Career Analysis & Recruitment Trainer
+<p align="center">
 
-AI-driven platform for resume analysis, job matching, and automated interview training.
+<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,tailwind,nodejs,mongodb,sqlite,git,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Signature Projects
+
+## 🧠 AI Career Analysis & Recruitment Trainer
+
+AI platform that performs **resume analysis, job matching, and automated interview training**.
 
 🔗 https://rcmcareer.netlify.app
 
 ---
 
-### ⚡ QOIS – Quantum Operational Intelligence System
+## ⚡ Quantum Operational Intelligence System (QOIS)
 
-Optimization platform utilizing **quantum-inspired workflow analytics**.
+A platform designed for **quantum-inspired workflow optimization and operational analytics**.
 
 🔗 https://qops.netlify.app
 
 ---
 
-### 📊 Adidas Sales Intelligence Dashboard
+## 📊 Adidas Sales Intelligence Dashboard
 
-Advanced **Power BI analytics system** transforming sales data into insights.
+Advanced **Power BI analytics system** transforming sales data into actionable business insights.
 
 ---
 
@@ -68,15 +75,23 @@ Advanced **Power BI analytics system** transforming sales data into insights.
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌐 Connect
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -94,6 +109,14 @@ Advanced **Power BI analytics system** transforming sales data into insights.
 
 </p>
 
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:050505&height=120&section=footer"/>
+
+⭐ *Engineering intelligent systems that merge AI, data, and scalable software.*
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:020024&height=120&section=footer"/>
 </p>
