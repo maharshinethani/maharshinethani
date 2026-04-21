@@ -148,49 +148,35 @@ SQLite
 </p>
 
 
-<h2>🌐 Connect With Me</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Great;AI+Engineer+%7C+Developer;Open+for+Global+Opportunities" />
-</p>
+<h2 >🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/nethani-rohit">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" style="transition:0.3s;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://rcmverse.netlify.app">
     <img src="https://skillicons.dev/icons?i=netlify" height="55"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="mailto:maharshinethani@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://www.upwork.com/">
     <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="55"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://discord.com/">
     <img src="https://skillicons.dev/icons?i=discord" height="55"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Building%20Next%20Gen%20AI%20Systems-111827?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/🌍%20Open%20for%20Global%20Collaboration-0A66C2?style=for-the-badge"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/⚡%20Architecting%20Digital%20Ecosystems-8B5CF6?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/🚀%20Building%20Next%20Gen%20AI%20Systems%20•%20🌍%20Open%20for%20Global%20Collaboration%20•%20⚡%20Architecting%20Digital%20Ecosystems-000000?style=for-the-badge"/>
+</p> 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8B5CF6&height=100&section=footer"/>
-</p>
+
 
 
 
@@ -207,3 +193,6 @@ SQLite
 <h3 align="center">
 ⚡ Engineering Intelligent Systems for the Future
 </h3>
+<p align="center "width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8B5CF6&height=100&section=footer"/>
+</p>
