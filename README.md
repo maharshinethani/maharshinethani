@@ -161,18 +161,43 @@ SQLite
 
 ---
 
-# 📊 System Activity
+# 🧠 Neural Activity Matrix
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
-
-<p align="center">
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=maharshinethani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
+
+# ⚡ Contribution Intelligence
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharshinethani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+# 📡 Development Activity Graph
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00e5ff&point=5f00ff"/>
+</p>
+
+---
+
+# 🐍 Autonomous Contribution Flow
+
+<p align="center">
+<img src="https://github.com/maharshinethani/maharshinethani/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+> Continuous commits power continuous evolution.
 
 # 🏆 Achievements
 
