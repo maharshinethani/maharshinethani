@@ -41,15 +41,12 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <img src="https://skillicons.dev/icons?i=python,java,c&perline=6"/>
 </p>
 
----
-
 ## 🌐 Application Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&perline=6"/>
 </p>
 
----
 
 ## ⚡ Backend & APIs
 
@@ -61,7 +58,6 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <img src="https://img.shields.io/badge/REST%20API-Scalable%20Architecture-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
----
 
 ## 🤖 Artificial Intelligence & Data Systems
 
@@ -71,7 +67,6 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <img src="https://img.shields.io/badge/Data%20Visualization-Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
 </p>
 
----
 
 ## ☁️ Cloud • DevOps • Infrastructure
 
@@ -79,7 +74,6 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux&perline=6"/>
 </p>
 
----
 
 ## 🛠 Development Tools
 
@@ -90,10 +84,6 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <p align="center">
 <img src="https://img.shields.io/badge/Render-Cloud%20Deployment-black?style=for-the-badge&logo=render"/>
 <img src="https://img.shields.io/badge/Netlify-Web%20Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5F00FF,100:00E5FF&height=4"/>
 </p>
 
 
