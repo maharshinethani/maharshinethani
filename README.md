@@ -52,7 +52,13 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
 </td>
 </tr>
-
+<tr>
+<td><b>🤖 AI / Machine Learning</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
+</td>
+</tr>
 <tr>
 <td><b>☁️ Cloud & DevOps</b></td>
 <td>
