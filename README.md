@@ -31,56 +31,58 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚡ Technology Stack
 
-<table>
-<tr>
-<td><b>👨‍💻 Programming Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-</td>
-</tr>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="30%" align="left"><b>👨‍💻 Programming Languages</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=python,java,c" />
+    </td>
+  </tr>
 
-<tr>
-<td><b>🌐 Frontend Development</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</td>
-</tr>
+  <tr>
+    <td width="30%" align="left"><b>🌐 Frontend Development</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    </td>
+  </tr>
 
-<tr>
-<td><b>⚙️ Backend Development</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
-</td>
-</tr>
-<tr>
-<td><b>🤖 AI / Machine Learning</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
-</td>
-</tr>
-<tr>
-<td><b>☁️ Cloud & DevOps</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
-</td>
-</tr>
+  <tr>
+    <td width="30%" align="left"><b>⚙️ Backend Development</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
+    </td>
+  </tr>
 
-<tr>
-<td><b>🛠 Tools</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
-</td>
-</tr>
+  <tr>
+    <td width="30%" align="left"><b>🤖 AI / Machine Learning</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" style="vertical-align: middle;"/>
+    </td>
+  </tr>
 
-<tr>
-<td><b>📊 Analytics & Deployment</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=netlify" />
-<img src="https://cdn.simpleicons.org/render" height="48"/>
-<img src="https://img.icons8.com/color/48/power-bi.png"/>
-</td>
-</tr>
+  <tr>
+    <td width="30%" align="left"><b>☁️ Cloud & DevOps</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="30%" align="left"><b>🛠 Tools</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=vscode,postman" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="30%" align="left"><b>📊 Analytics & Deployment</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=netlify" />
+      <img src="https://cdn.simpleicons.org/render" height="48" style="vertical-align: middle;"/>
+      <img src="https://img.icons8.com/color/48/power-bi.png" style="vertical-align: middle;"/>
+    </td>
+  </tr>
 </table>
 
 
