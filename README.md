@@ -6,9 +6,6 @@
 ⚡ Architecting Intelligent Systems • Building Scalable AI Ecosystems • Engineering the Future
 </h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=maharshinethani&color=00e5ff&style=for-the-badge&label=SYSTEM%20VISITS"/>
-</p>
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
