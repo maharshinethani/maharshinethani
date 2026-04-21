@@ -161,13 +161,7 @@ SQLite
 
 ---
 
-# 🧠 Neural Activity Matrix
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=maharshinethani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
 
 # ⚡ Contribution Intelligence
 
@@ -191,11 +185,7 @@ SQLite
 
 ---
 
-# 🐍 Autonomous Contribution Flow
 
-<p align="center">
-<img src="https://github.com/maharshinethani/maharshinethani/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
 > Continuous commits power continuous evolution.
 
