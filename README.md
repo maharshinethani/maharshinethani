@@ -31,60 +31,59 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚡ Technology Stack
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%" style="border-collapse: collapse; table-layout: auto;">
   <tr>
-    <td width="30%" align="left"><b>👨‍💻 Programming Languages</b></td>
-    <td align="left">
+    <td style="white-space: nowrap; padding: 10px;"><b>👨‍💻 Programming Languages</b></td>
+    <td width="100%" align="left" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=python,java,c" />
     </td>
   </tr>
 
   <tr>
-    <td width="30%" align="left"><b>🌐 Frontend Development</b></td>
-    <td align="left">
+    <td style="white-space: nowrap; padding: 10px;"><b>🌐 Frontend Development</b></td>
+    <td align="left" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     </td>
   </tr>
 
   <tr>
-    <td width="30%" align="left"><b>⚙️ Backend Development</b></td>
-    <td align="left">
+    <td style="white-space: nowrap; padding: 10px;"><b>⚙️ Backend Development</b></td>
+    <td align="left" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
     </td>
   </tr>
 
   <tr>
-    <td width="30%" align="left"><b>🤖 AI / Machine Learning</b></td>
-    <td align="left">
+    <td style="white-space: nowrap; padding: 10px;"><b>🤖 AI / Machine Learning</b></td>
+    <td align="left" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" style="vertical-align: middle;"/>
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" style="vertical-align: top; margin-left: 4px;"/>
     </td>
   </tr>
 
   <tr>
-    <td width="30%" align="left"><b>☁️ Cloud & DevOps</b></td>
-    <td align="left">
+    <td style="white-space: nowrap; padding: 10px;"><b>☁️ Cloud & DevOps</b></td>
+    <td align="left" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
     </td>
   </tr>
 
   <tr>
-    <td width="30%" align="left"><b>🛠 Tools</b></td>
-    <td align="left">
+    <td style="white-space: nowrap; padding: 10px;"><b>🛠 Tools</b></td>
+    <td align="left" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=vscode,postman" />
     </td>
   </tr>
 
   <tr>
-    <td width="30%" align="left"><b>📊 Analytics & Deployment</b></td>
-    <td align="left">
+    <td style="white-space: nowrap; padding: 10px;"><b>📊 Analytics & Deployment</b></td>
+    <td align="left" style="padding: 10px;">
       <img src="https://skillicons.dev/icons?i=netlify" />
-      <img src="https://cdn.simpleicons.org/render" height="48" style="vertical-align: middle;"/>
-      <img src="https://img.icons8.com/color/48/power-bi.png" style="vertical-align: middle;"/>
+      <img src="https://cdn.simpleicons.org/render" height="48" style="vertical-align: top; margin-left: 4px;"/>
+      <img src="https://img.icons8.com/color/48/power-bi.png" style="vertical-align: top; margin-left: 4px;"/>
     </td>
   </tr>
 </table>
-
 
 
 
