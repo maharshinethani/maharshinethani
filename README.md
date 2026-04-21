@@ -32,10 +32,6 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚙️ Technology Stack
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=4"/>
-</p>
-
 ## 👨‍💻 Programming Languages
 
 <p align="center">
