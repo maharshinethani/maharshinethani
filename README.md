@@ -49,7 +49,7 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 <tr>
 
-<td><h3>🌐 Frontend Development</h3></td>
+<td><b>🌐 Frontend Development</b></td>
 
 <td>
 
