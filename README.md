@@ -31,48 +31,48 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚡ Technology Stack
 
-<table width="100%">
+<table>
 <tr>
-<td width="35%"><h3>👨‍💻 Programming Languages</h3></td>
-<td width="65%">
+<td><b>👨‍💻 Programming Languages</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=python,java,c" />
 </td>
 </tr>
 
 <tr>
-<td><h3>🌐 Frontend Development</h3></td>
+<td><b>🌐 Frontend Development</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </td>
 </tr>
 
 <tr>
-<td><h3>⚙️ Backend Development</h3></td>
+<td><b>⚙️ Backend Development</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
 </td>
 </tr>
 
 <tr>
-<td><h3>☁️ Cloud & DevOps</h3></td>
+<td><b>☁️ Cloud & DevOps</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
 </td>
 </tr>
 
 <tr>
-<td><h3>🛠 Tools</h3></td>
+<td><b>🛠 Tools</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </td>
 </tr>
 
 <tr>
-<td><h3>📊 Analytics & Deployment</h3></td>
+<td><b>📊 Analytics & Deployment</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=netlify" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="48"/>
-<img src="https://cdn.simpleicons.org/render/000000" height="48"/>
+<img src="https://cdn.simpleicons.org/render" height="48"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
 </td>
 </tr>
 </table>
