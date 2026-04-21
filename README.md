@@ -31,9 +31,6 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚙️ Engineering Stack
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:5F00FF&height=4"/>
-</p>
 
 ## 🧠 Core Programming
 
