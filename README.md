@@ -29,47 +29,7 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
-# 🚀 Flagship Systems
 
-### 🏥 Maha Sanjeevan AI Healthcare Ecosystem
-An advanced **AI-powered healthcare intelligence platform** integrating:
-
-• Medical Encyclopedia  
-• Nutrition Vision AI  
-• Symptom Intelligence  
-• Real-time Health Monitoring  
-
-Goal: **Bridge Artificial Intelligence with Preventive Healthcare.**
-
----
-
-### ⚛️ QOIS — Quantum Operational Intelligence System
-
-A **high-performance optimization engine** designed for enterprise environments.
-
-Core Capabilities:
-
-• Logistics Optimization  
-• Workflow Intelligence  
-• Resource Allocation  
-• Decision Modeling  
-
-Powered by **QUBO mathematical optimization models.**
-
----
-
-### 🤖 SmartOps AI HR Automation
-
-An **AI-driven HR CRM system** designed for automated recruitment and workforce management.
-
-Features:
-
-• Candidate Screening AI  
-• Automated HR Workflows  
-• Employee Intelligence Dashboard  
-• Predictive Hiring Insights  
-
----
 
 # ⚙️ Technology Stack
 
@@ -134,7 +94,47 @@ SQLite
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
+# 🚀 Flagship Systems
 
+### 🏥 Maha Sanjeevan AI Healthcare Ecosystem
+An advanced **AI-powered healthcare intelligence platform** integrating:
+
+• Medical Encyclopedia  
+• Nutrition Vision AI  
+• Symptom Intelligence  
+• Real-time Health Monitoring  
+
+Goal: **Bridge Artificial Intelligence with Preventive Healthcare.**
+
+---
+
+### ⚛️ QOIS — Quantum Operational Intelligence System
+
+A **high-performance optimization engine** designed for enterprise environments.
+
+Core Capabilities:
+
+• Logistics Optimization  
+• Workflow Intelligence  
+• Resource Allocation  
+• Decision Modeling  
+
+Powered by **QUBO mathematical optimization models.**
+
+---
+
+### 🤖 SmartOps AI HR Automation
+
+An **AI-driven HR CRM system** designed for automated recruitment and workforce management.
+
+Features:
+
+• Candidate Screening AI  
+• Automated HR Workflows  
+• Employee Intelligence Dashboard  
+• Predictive Hiring Insights  
+
+---
 
 
 
