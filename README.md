@@ -33,37 +33,30 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚙️ Technology Stack
 
+## 👨‍💻 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
 
-### 🧰 Core Technologies
+## 🌐 Development (Full Stack & APIs)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,fastapi" />
+</p>
 
-**Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-Backend-blue?style=for-the-badge&logo=fastapi"/>
+</p>
 
-Python • JavaScript • TypeScript  
+## ⚙️ DevOps, Cloud & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman" />
+</p>
 
-**AI & Data**
-
-Machine Learning  
-Gemini API  
-Data Analysis  
-
-**Frontend**
-
-React  
-Vite  
-Tailwind CSS  
-Advanced UI Animation  
-
-**Backend**
-
-FastAPI  
-Node.js  
-REST APIs  
-
-**Databases**
-
-MongoDB  
-PostgreSQL  
-SQLite  
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-Cloud-black?style=for-the-badge&logo=render"/>
+  <img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi"/>
+</p>
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
