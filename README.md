@@ -71,7 +71,6 @@ Features:
 
 # ⚙️ Technology Stack
 
----
 
 ### 🧰 Core Technologies
 
