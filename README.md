@@ -10,13 +10,13 @@
 
 # 🧠 The Engineer Behind Intelligent Systems
 
-I am **Rohit Chandra Maharshi**, an **Artificial Intelligence & Software Engineer** building **intelligent systems and scalable digital platforms** that solve real-world problems.
+I am Rohit Chandra Maharshi, an Artificial Intelligence & Software Engineer building intelligent systems and scalable digital platforms that solve real-world problems
 
-**Focus Areas**
-⚡ AI & Machine Learning
-⚡ Full Stack Development
-⚡ Data Intelligence & Analytics
-⚡ Automation Systems
+**Focus Areas**  
+⚡ AI & Machine Learning  
+⚡ Full Stack Development  
+⚡ Data Intelligence  
+⚡ Automation Systems  
 
 > **“Software is not just built — it is engineered to evolve.”** 🚀
 
