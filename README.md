@@ -165,7 +165,9 @@ SQLite
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3200&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=🚀+Building+Next+Gen+AI+Systems;🌍+Open+for+Global+Collaboration;⚡+Architecting+Digital+Ecosystems"/>
+<b style="font-size:22px; color:white;">
+🚀 Building Next Generation AI Systems • Open for Global Collaboration • Architecting Digital Ecosystems
+</b>
 </p>
 
 
