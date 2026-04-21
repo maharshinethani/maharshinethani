@@ -147,19 +147,16 @@ SQLite
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+<a href="https://linkedin.com/in/nethani-rohit">🔗 LinkedIn</a> |
+<a href="https://rcmverse.vercel.app">🌐 Portfolio</a> |
+<a href="mailto:maharshinethani@gmail.com">📧 Email</a>
+</p>
 
-🔗 <b>LinkedIn</b>  
-<a href="https://linkedin.com/in/nethani-rohit">linkedin.com/in/nethani-rohit</a>
-
-🌐 <b>Portfolio</b>  
-<a href="https://rcmverse.vercel.app">rcmverse.vercel.app</a>
-
-📧 <b>Email</b>  
-<a href="mailto:maharshinethani@gmail.com">maharshinethani@gmail.com</a>
-
+<p align="center">
+💬 Open to collaboration, innovative projects, and global opportunities.
 </p>
 
 
