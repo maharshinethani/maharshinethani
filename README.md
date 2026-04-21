@@ -33,7 +33,7 @@ I build **production-grade AI platforms** that combine **machine intelligence, h
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🧠 Artificial Intelligence
 • Generative AI  
