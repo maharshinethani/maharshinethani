@@ -154,8 +154,8 @@ SQLite
 
 <p align="center">
 <a href="https://linkedin.com/in/nethani-rohit">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
 
 <a href="https://rcmverse.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
