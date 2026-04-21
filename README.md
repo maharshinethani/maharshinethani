@@ -217,7 +217,7 @@ SQLite
 
 
 
-<p align="center">
+<p >
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
