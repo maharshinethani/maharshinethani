@@ -28,7 +28,7 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
-# ⚡ Tech Stack & Engineering Tools
+# ⚙️ Technology Stack
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:5F00FF&height=4"/>
