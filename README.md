@@ -194,7 +194,7 @@ SQLite
 # 🏆 Achievements
 
 🥈 **Runner-Up — Amaravati Quantum Valley Hackathon**  
-₹30,000 Innovation Prize  
+
 
 🚀 **Award - Best Website Designer**
 
