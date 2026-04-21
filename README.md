@@ -31,56 +31,70 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚡ Technology Stack
 
-<table width="100%" style="border-collapse: collapse; table-layout: auto;">
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td style="white-space: nowrap; padding: 10px;"><b>👨‍💻 Programming Languages</b></td>
-    <td width="100%" align="left" style="padding: 10px;">
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap; min-width: 180px;">
+      <b>👨‍💻 Programming Languages</b>
+    </td>
+    <td width="100%" align="left" style="padding: 12px; border-bottom: 1px solid #333;">
       <img src="https://skillicons.dev/icons?i=python,java,c" />
     </td>
   </tr>
 
   <tr>
-    <td style="white-space: nowrap; padding: 10px;"><b>🌐 Frontend Development</b></td>
-    <td align="left" style="padding: 10px;">
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
+      <b>🌐 Frontend Development</b>
+    </td>
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
       <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     </td>
   </tr>
 
   <tr>
-    <td style="white-space: nowrap; padding: 10px;"><b>⚙️ Backend Development</b></td>
-    <td align="left" style="padding: 10px;">
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
+      <b>⚙️ Backend Development</b>
+    </td>
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
       <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
     </td>
   </tr>
 
   <tr>
-    <td style="white-space: nowrap; padding: 10px;"><b>🤖 AI / Machine Learning</b></td>
-    <td align="left" style="padding: 10px;">
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
+      <b>🤖 AI / Machine Learning</b>
+    </td>
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
       <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" style="vertical-align: top; margin-left: 4px;"/>
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" style="vertical-align: top; margin-left: 5px;"/>
     </td>
   </tr>
 
   <tr>
-    <td style="white-space: nowrap; padding: 10px;"><b>☁️ Cloud & DevOps</b></td>
-    <td align="left" style="padding: 10px;">
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
+      <b>☁️ Cloud & DevOps</b>
+    </td>
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
     </td>
   </tr>
 
   <tr>
-    <td style="white-space: nowrap; padding: 10px;"><b>🛠 Tools</b></td>
-    <td align="left" style="padding: 10px;">
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
+      <b>🛠 Tools</b>
+    </td>
+    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
       <img src="https://skillicons.dev/icons?i=vscode,postman" />
     </td>
   </tr>
 
   <tr>
-    <td style="white-space: nowrap; padding: 10px;"><b>📊 Analytics & Deployment</b></td>
-    <td align="left" style="padding: 10px;">
+    <td align="left" style="padding: 12px; white-space: nowrap;">
+      <b>📊 Analytics & Deployment</b>
+    </td>
+    <td align="left" style="padding: 12px;">
       <img src="https://skillicons.dev/icons?i=netlify" />
-      <img src="https://cdn.simpleicons.org/render" height="48" style="vertical-align: top; margin-left: 4px;"/>
-      <img src="https://img.icons8.com/color/48/power-bi.png" style="vertical-align: top; margin-left: 4px;"/>
+      <img src="https://cdn.simpleicons.org/render" height="48" style="vertical-align: top; margin-left: 5px;"/>
+      <img src="https://img.icons8.com/color/48/power-bi.png" style="vertical-align: top; margin-left: 5px;"/>
     </td>
   </tr>
 </table>
