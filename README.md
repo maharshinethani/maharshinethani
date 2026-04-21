@@ -150,20 +150,22 @@ SQLite
 
 <h2>🌐 Connect With Me</h2>
 
-
-
 <p align="center">
 <a href="https://linkedin.com/in/nethani-rohit">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+</a>
 
 <a href="https://rcmverse.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-8A2BE2?style=for-the-badge&logo=Google%20Chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:maharshinethani@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F2FE&center=true&vCenter=true&width=600&lines=Building+Next+Gen+AI+Systems;Open+for+Global+Collaboration;Architecting+Digital+Ecosystems"/>
 </p>
 
 
