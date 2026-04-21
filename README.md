@@ -35,9 +35,9 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 <tr>
 
-<td><b>👨‍💻 Programming Languages</b></td>
+<td width="50%"><b>👨‍💻 Programming Languages</b></td>
 
-<td>
+<td width="50%">
 
 <img src="https://skillicons.dev/icons?i=python,java,c" />
 
