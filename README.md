@@ -165,9 +165,7 @@ SQLite
 </p>
 
 <p align="center">
-<b style="font-size:22px; color:white;">
-🚀 Building Next Generation AI Systems • Open for Global Collaboration • Architecting Digital Ecosystems
-</b>
+<img src="https://img.shields.io/badge/🚀%20Building%20Next%20Gen%20AI%20Systems%20•%20🌍%20Open%20for%20Global%20Collaboration%20•%20⚡%20Architecting%20Digital%20Ecosystems-000000?style=for-the-badge"/>
 </p>
 
 
