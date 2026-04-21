@@ -148,24 +148,30 @@ SQLite
 </p>
 
 
-<h2>🌐 Connect With Me</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+
 <a href="https://linkedin.com/in/nethani-rohit">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
 
 <a href="https://rcmverse.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Universe-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
 </a>
 
 <a href="mailto:maharshinethani@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Let's%20Build%20Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
+
 </p>
 
 <p align="center">
-✨ Open to collaborations, innovative projects, and global opportunities.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Open+for+Collaboration;Building+Next+Gen+AI+Systems;Let's+Create+Impact+Together"/>
+</p>
+
+<p align="center">
+✨ <b>Open to collaborations, innovative projects, and global opportunities.</b> 🚀  
 </p>
 
 
