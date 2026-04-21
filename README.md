@@ -148,21 +148,26 @@ SQLite
 </p>
 
 
-<h2 >🌐 Connect With Me</h2>
+## 🌐 Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/nethani-rohit">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://rcmverse.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:maharshinethani@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:6366f1,100:8b5cf6&height=2"/>
+</p>
+
 
 <p align="center">
 ✨ Open to collaborations, innovative projects, and global opportunities.
