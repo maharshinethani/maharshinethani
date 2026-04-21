@@ -31,7 +31,7 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚡ Technology Stack
 
-<table align="center" style="width:100%; max-width:100%;">
+<table align="center" style="width:250px; max-width:100%;">
 
 <tr>
 <td width="50%"><b>👨‍💻 Programming Languages</b></td>
