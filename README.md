@@ -185,13 +185,7 @@ SQLite
 
 
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
 
-<h3 align="center">
-⚡ Engineering Intelligent Systems for the Future
-</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:5f00ff&height=120&section=footer&width=1000" width="100%"/>
 </p>
