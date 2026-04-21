@@ -10,21 +10,20 @@
 
 # 🧠 The Engineer Behind Intelligent Systems
 
-I am **Rohit Chandra Maharshi**, an **Artificial Intelligence & Software Engineer** passionate about building **intelligent systems, automation platforms, and scalable digital products** that solve real-world problems.
+I am **Rohit Chandra Maharshi**, an **Artificial Intelligence & Software Engineer** passionate about building **intelligent systems, automation platforms, and scalable digital products** that solve real-world challenges.
 
 My work focuses on the intersection of:
 
-⚡ Artificial Intelligence & Machine Learning  
-⚡ Full Stack Application Development  
-⚡ Data Intelligence & Analytics  
-⚡ Automation & Optimization Systems  
+⚡ **Artificial Intelligence & Machine Learning**  
+⚡ **Full Stack Application Development**  
+⚡ **Data Intelligence & Analytics**  
+⚡ **Automation & Optimization Systems**
 
-I design and build **production-grade platforms** that integrate **AI models, modern web architectures, and data-driven decision systems** to create powerful real-world solutions.
+I design and develop **production-grade platforms** that integrate **AI models, modern web technologies, and data-driven decision systems** to create powerful, real-world solutions.
 
-From **AI-driven assistants and smart automation systems** to **advanced analytics dashboards and intelligent web platforms**, my goal is to engineer technology that is **scalable, impactful, and future-ready.**
+From **AI assistants and smart automation systems** to **advanced analytics dashboards and intelligent web platforms**, my goal is to engineer technology that is **scalable, impactful, and future-ready.**
 
-> **"Software is not just built — it is engineered to evolve."**
-
+> **“Software is not just built — it is engineered to evolve.”** 🚀
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
