@@ -72,7 +72,7 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <td>
 <img src="https://skillicons.dev/icons?i=netlify" />
 <img src="https://cdn.simpleicons.org/render" height="48"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
 </td>
 </tr>
 </table>
