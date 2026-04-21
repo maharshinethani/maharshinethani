@@ -44,7 +44,7 @@ I build **production-grade AI platforms** that combine **machine intelligence, h
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
 ### 🌐 Full Stack Engineering
 • React + Vite Applications  
@@ -56,7 +56,7 @@ I build **production-grade AI platforms** that combine **machine intelligence, h
 </tr>
 
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### ⚛️ Optimization Systems
 • Mathematical Optimization  
