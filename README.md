@@ -1,9 +1,8 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/maharshinethani/maharshinethani/main/github-removebg-preview.png" width="100%" height="220"/> </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Architecting+Intelligent+Systems;⚙️+Building+Scalable+AI+Platforms;🚀+Engineering+the+Future"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=3500&pause=700&color=BD34FE&center=true&vCenter=true&width=1000&lines=⚡+AI+Systems+Architect;🚀+Full+Stack+Engineer;🧠+Building+Intelligent+Platforms"/>
 </p>
-
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
