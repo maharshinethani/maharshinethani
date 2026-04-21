@@ -173,9 +173,8 @@ SQLite
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🚀%20Building%20Next%20Gen%20AI%20Systems%20•%20🌍%20Open%20for%20Global%20Collaboration%20•%20⚡%20Architecting%20Digital%20Ecosystems-6C63FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20Building%20Next%20Gen%20AI%20Systems%20•%20🌍%20Open%20for%20Global%20Collaboration%20•%20⚡%20Architecting%20Digital%20Ecosystems-00E5FF?style=for-the-badge&logoColor=black"/>
 </p>
-
 
 
 
