@@ -177,6 +177,6 @@ SQLite
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:5f00ff&height=120&section=footer&width=1000" width="100%"/>
+<p align="center" style="margin-top:8px;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:5f00ff&height=90&section=footer&width=1000" width="100%"/>
 </p>
