@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/maharshinethani/maharshinethani/main/photo.png" width="100%" style="max-height:260px; object-fit:cover; border-radius:12px;"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/maharshinethani/maharshinethani/main/m.jpeg" width="100%" height="320"/> </p>
 
 <h3 align="center">
 ⚡ Architecting Intelligent Systems • Building Scalable AI Ecosystems • Engineering the Future
