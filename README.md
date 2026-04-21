@@ -28,57 +28,22 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
-# ⚙️ Technology Stack
+
+
+# ⚡ Technology Stack
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:5F00FF&height=4"/>
-</p>
 
-### 👨‍💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,c" /><br><br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,fastapi" /><br><br>
 
-### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman" /><br><br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Render-Cloud-000000?style=for-the-badge&logo=render"/>
+<img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
 
-### ⚙️ Backend & APIs
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/REST%20API-Scalable%20Backend-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### 🤖 AI • Data • Analytics
-
-<p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-AI%20Systems-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Processing-Python-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### ☁️ Cloud • DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
-</p>
-
-### 🛠 Tools & Deployment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Render-Cloud%20Deployment-000000?style=for-the-badge&logo=render"/>
-<img src="https://img.shields.io/badge/Netlify-Web%20Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
 </p>
 
 
