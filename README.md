@@ -193,6 +193,6 @@ SQLite
 <h3 align="center">
 ⚡ Engineering Intelligent Systems for the Future
 </h3>
-<p align="center "width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8B5CF6&height=100&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:5f00ff&height=120&section=footer&width=1000" width="100%"/>
 </p>
