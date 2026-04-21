@@ -148,7 +148,11 @@ SQLite
 </p>
 
 
-## 🌐 Connect
+## 🌐 Connect With Me
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Let's+Build+Intelligent+Systems;Open+for+Collaboration;Creating+Future+Tech"/>
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/nethani-rohit">
@@ -164,9 +168,12 @@ SQLite
 </a>
 </p>
 
+
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:6366f1,100:8b5cf6&height=2"/>
+<b>⚡ Code → Systems → Intelligence → Future</b>
 </p>
+
 
 
 <p align="center">
