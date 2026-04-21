@@ -32,19 +32,52 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚡ Technology Stack
 
-<p align="center">
+<table>
+<tr>
+<td><b>👨‍💻 Programming Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,c" />
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=python,java,c" /><br><br>
+<tr>
+<td><b>🌐 Frontend Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,fastapi" /><br><br>
+<tr>
+<td><b>⚙️ Backend Development</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman" /><br><br>
+<tr>
+<td><b>☁️ Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Render-Cloud-000000?style=for-the-badge&logo=render"/>
-<img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
+<tr>
+<td><b>🛠 Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
+</td>
+</tr>
 
-</p>
+<tr>
+<td><b>📊 Analytics & Deployment</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=netlify" />
+<img src="https://cdn.simpleicons.org/render" height="48"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
+</td>
+</tr>
+</table>
+
 
 
 
