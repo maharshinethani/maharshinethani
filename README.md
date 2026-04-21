@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:00e5ff,100:5f00ff&height=150&section=header&text=ROHIT%20CHANDRA%20MAHARSHI&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://raw.githubusercontent.com/maharshinethani/maharshinethani/main/github.png" width="100%"/>
 </p>
 
 <h3 align="center">
