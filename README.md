@@ -148,7 +148,7 @@ SQLite
 </p>
 
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 >🌐 Connect With Me</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/nethani-rohit">
