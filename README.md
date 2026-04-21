@@ -29,36 +29,71 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
-# ⚙️ Technology Stack
-
-<table align="center">
-<tr>
-<td align="center"><b>👨‍💻 Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=python,c,java"/>
-</td>
-
-<td align="center"><b>🌐 Full Stack</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,fastapi"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>⚙️ DevOps & Tools</b><br><br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,postman"/>
-</td>
-
-<td align="center"><b>☁️ Cloud & Analytics</b><br><br>
-<img src="https://skillicons.dev/icons?i=azure"/>
-<br><br>
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Render-Deployment-black?style=for-the-badge&logo=render"/>
-<img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
-</td>
-</tr>
-</table>
+# ⚙️ Engineering Stack
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:5F00FF&height=4"/>
+</p>
+
+## 🧠 Core Programming
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c&perline=6"/>
+</p>
+
+---
+
+## 🌐 Application Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&perline=6"/>
+</p>
+
+---
+
+## ⚡ Backend & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb&perline=6"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/REST%20API-Scalable%20Architecture-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Data Systems
+
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-AI%20Engineering-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Processing-Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
+</p>
+
+---
+
+## ☁️ Cloud • DevOps • Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux&perline=6"/>
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman&perline=6"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Render-Cloud%20Deployment-black?style=for-the-badge&logo=render"/>
+<img src="https://img.shields.io/badge/Netlify-Web%20Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5F00FF,100:00E5FF&height=4"/>
 </p>
 
 
