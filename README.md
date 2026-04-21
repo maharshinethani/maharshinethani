@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e5ff,100:5f00ff&height=200&section=header&text=ROHIT%20CHANDRA%20MAHARSHI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e5ff,100:5f00ff&height=200&section=header&text=ROHIT%20CHANDRA%20MAHARSHI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 
 <h3 align="center">
