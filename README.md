@@ -165,13 +165,13 @@ SQLite
 ## ⚡ Contribution Intelligence
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&hide_title=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&title_color=4facfe&icon_color=22c55e&text_color=cbd5f5"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=22c55e"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:000000&height=2&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:22c55e,100:8b5cf6&height=3"/>
 </p>
 
 ---
@@ -179,7 +179,7 @@ SQLite
 ## 📡 Development Activity
 
 <p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00e5ff&point=5f00ff"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=4facfe&point=8b5cf6"/>
 </p>
 
 
