@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/maharshinethani/maharshinethani/main/github-removebg-preview.png" width="100%" height="320"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/maharshinethani/maharshinethani/main/github-removebg-preview.png" width="100%" height="220"/> </p>
 
 <h3 align="center">
 ⚡ Architecting Intelligent Systems • Building Scalable AI Ecosystems • Engineering the Future
