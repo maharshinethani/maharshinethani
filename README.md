@@ -162,26 +162,26 @@ SQLite
 ---
 
 
-
-# ⚡ Contribution Intelligence
+## ⚡ Contribution Intelligence
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&hide_title=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
 </p>
 
-
-
----
-
-# 📡 Development Activity Graph
-
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00e5ff&point=5f00ff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:000000&height=2&section=footer"/>
 </p>
 
 ---
+
+## 📡 Development Activity
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=00e5ff&point=5f00ff"/>
+</p>
+
 
 
 
