@@ -155,7 +155,7 @@ SQLite
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://rcmverse.vercel.app">
+  <a href="https://rcmverse.netlify.app">
     <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
