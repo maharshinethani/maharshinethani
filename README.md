@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/maharshinethani/maharshinethani/main/photo.png" width="100%" style="max-height:240px; object-fit:cover;"/>
+<img src="https://raw.githubusercontent.com/maharshinethani/maharshinethani/main/photo.png" width="100%" style="max-height:260px; object-fit:cover; border-radius:12px;"/>
 </p>
 
 <h3 align="center">
