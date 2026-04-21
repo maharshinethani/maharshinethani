@@ -27,11 +27,6 @@ I build **production-grade AI platforms** that combine **machine intelligence, h
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
-
 # 🚀 Flagship Systems
 
 ### 🏥 Maha Sanjeevan AI Healthcare Ecosystem
