@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/maharshinethani/maharshinethani/main/github-removebg-preview.png" width="100%" height="220"/> </p>
 
-<h3 align="center">
-⚡ Architecting Intelligent Systems • Building Scalable AI Ecosystems • Engineering the Future
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00E5FF&center=true&vCenter=true&width=900&lines=Architecting+Intelligent+Systems;Building+Scalable+AI+Ecosystems;Engineering+the+Future"/>
+</p>
 
 
 <p align="center">
