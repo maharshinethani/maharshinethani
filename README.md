@@ -190,18 +190,12 @@ SQLite
 
 
 
-
-
-> Continuous commits power continuous evolution.
-
 # 🏆 Achievements
 
 🥈 **Runner-Up — Amaravati Quantum Valley Hackathon**  
 ₹30,000 Innovation Prize  
 
-🚀 **Architect — SmartOps AI Automation Platform**
-
-🎓 **B.Sc Artificial Intelligence**
+🚀 **Award - Best Website Designer**
 
 ---
 
