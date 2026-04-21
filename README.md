@@ -177,16 +177,13 @@ SQLite
 ## 📡 Development Activity
 
 <p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=4facfe&point=8b5cf6"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=4facfe&point=8b5cf6"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:6366f1,100:8b5cf6&height=2"/>
-</p>
 
-<p align="center">
-<b>⚡ Continuous commits → Continuous evolution</b>
-</p>
+
+
+> Continuous commits power continuous evolution.
 
 # 🏆 Achievements
 
