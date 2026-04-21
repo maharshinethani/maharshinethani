@@ -31,7 +31,7 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚡ Technology Stack
 
-<table align="center">
+<table align="center" width="100%">
 
 <tr>
 
