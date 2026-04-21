@@ -151,30 +151,32 @@ SQLite
 ## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Let's+Build+Intelligent+Systems;Open+for+Collaboration;Creating+Future+Tech"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Let's+Build+Intelligent+Systems;Open+for+Collaboration;Creating+Future+Tech"/>
 </p>
 
 <p align="center">
+
 <a href="https://linkedin.com/in/nethani-rohit">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
 
 <a href="https://rcmverse.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
 </a>
 
 <a href="mailto:maharshinethani@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
+
 </p>
 
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,50:6366F1,100:8B5CF6&height=2"/>
+</p>
 
 <p align="center">
 <b>⚡ Code → Systems → Intelligence → Future</b>
 </p>
-
-
 
 <p align="center">
 ✨ Open to collaborations, innovative projects, and global opportunities.
