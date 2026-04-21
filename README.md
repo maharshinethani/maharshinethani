@@ -29,35 +29,38 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
-
 # ⚙️ Technology Stack
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center"><b>👨‍💻 Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,c,java"/>
+</td>
 
-### 👨‍💻 Programming Languages
+<td align="center"><b>🌐 Full Stack</b><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,fastapi"/>
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" />
+<tr>
+<td align="center"><b>⚙️ DevOps & Tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,postman"/>
+</td>
 
-### 🌐 Full Stack Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,fastapi&theme=dark" />
-
-### 🤖 AI • Data • Analytics
-
-<img src="https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Data%20Processing-Python-blue?style=for-the-badge&logo=python"/>
-
-### ⚙️ DevOps • Cloud • Tools
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman&theme=dark" />
-
-### ☁️ Deployment Platforms
-
-<img src="https://img.shields.io/badge/Render-Cloud-black?style=for-the-badge&logo=render"/>
+<td align="center"><b>☁️ Cloud & Analytics</b><br><br>
+<img src="https://skillicons.dev/icons?i=azure"/>
+<br><br>
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Render-Deployment-black?style=for-the-badge&logo=render"/>
 <img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
+</td>
+</tr>
+</table>
 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
+
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
