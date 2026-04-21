@@ -31,72 +31,106 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚡ Technology Stack
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap; min-width: 180px;">
-      <b>👨‍💻 Programming Languages</b>
-    </td>
-    <td width="100%" align="left" style="padding: 12px; border-bottom: 1px solid #333;">
-      <img src="https://skillicons.dev/icons?i=python,java,c" />
-    </td>
-  </tr>
+<table align="center">
 
-  <tr>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
-      <b>🌐 Frontend Development</b>
-    </td>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-    </td>
-  </tr>
+<tr>
 
-  <tr>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
-      <b>⚙️ Backend Development</b>
-    </td>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
-    </td>
-  </tr>
+<td><b>👨‍💻 Programming Languages</b></td>
 
-  <tr>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
-      <b>🤖 AI / Machine Learning</b>
-    </td>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" style="vertical-align: top; margin-left: 5px;"/>
-    </td>
-  </tr>
+<td>
 
-  <tr>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
-      <b>☁️ Cloud & DevOps</b>
-    </td>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=python,java,c" />
 
-  <tr>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333; white-space: nowrap;">
-      <b>🛠 Tools</b>
-    </td>
-    <td align="left" style="padding: 12px; border-bottom: 1px solid #333;">
-      <img src="https://skillicons.dev/icons?i=vscode,postman" />
-    </td>
-  </tr>
+</td>
 
-  <tr>
-    <td align="left" style="padding: 12px; white-space: nowrap;">
-      <b>📊 Analytics & Deployment</b>
-    </td>
-    <td align="left" style="padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=netlify" />
-      <img src="https://cdn.simpleicons.org/render" height="48" style="vertical-align: top; margin-left: 5px;"/>
-      <img src="https://img.icons8.com/color/48/power-bi.png" style="vertical-align: top; margin-left: 5px;"/>
-    </td>
-  </tr>
+</tr>
+
+
+
+<tr>
+
+<td><b>🌐 Frontend Development</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td><b>⚙️ Backend Development</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>🤖 AI / Machine Learning</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>☁️ Cloud & DevOps</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td><b>🛠 Tools</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
+
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td><b>📊 Analytics & Deployment</b></td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=netlify" />
+
+<img src="https://cdn.simpleicons.org/render" height="48"/>
+
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+
+</td>
+
+</tr>
+
 </table>
 
 
