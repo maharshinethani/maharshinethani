@@ -31,106 +31,53 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚡ Technology Stack
 
-<table align="center" width="100%">
-
+<table align="center">
 <tr>
-
-<td width="50%"><b>👨‍💻 Programming Languages</b></td>
-
-<td width="50%">
-
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-
+<td align="center"><b>👨‍💻 Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,c" height="50"/>
 </td>
 
-</tr>
-
-
-
-<tr>
-
-<td><b>🌐 Frontend Development</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
+<td align="center"><b>🌐 Frontend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="50"/>
 </td>
-
-</tr>
-
-
-
-<tr>
-
-<td><b>⚙️ Backend Development</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
-
-</td>
-
 </tr>
 
 <tr>
-
-<td><b>🤖 AI / Machine Learning</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
-
+<td align="center"><b>⚙️ Backend</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" height="50"/>
 </td>
 
+<td align="center"><b>🤖 AI / ML</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="50"/>
+<br/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>
+</td>
 </tr>
 
 <tr>
-
-<td><b>☁️ Cloud & DevOps</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" />
-
+<td align="center"><b>☁️ Cloud & DevOps</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" height="50"/>
 </td>
 
-</tr>
-
-
-
-<tr>
-
-<td><b>🛠 Tools</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
-
+<td align="center"><b>🛠 Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman" height="50"/>
 </td>
-
 </tr>
 
-
-
 <tr>
-
-<td><b>📊 Analytics & Deployment</b></td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=netlify" />
-
-<img src="https://cdn.simpleicons.org/render" height="48"/>
-
+<td align="center"><b>📊 Analytics</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=netlify" height="50"/>
+<br/>
+<img src="https://cdn.simpleicons.org/render" height="45"/>
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
-
 </td>
 
+<td align="center"><b>⚡ Focus</b><br/><br/>
+AI Engineering <br/>
+Full Stack Development <br/>
+System Design
+</td>
 </tr>
-
 </table>
 
 
