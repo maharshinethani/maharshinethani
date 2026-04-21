@@ -152,15 +152,23 @@ SQLite
 
 <p align="center">
   <a href="https://linkedin.com/in/nethani-rohit">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://rcmverse.netlify.app">
-    <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=netlify" height="55"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:maharshinethani@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.upwork.com/">
+    <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/">
+    <img src="https://skillicons.dev/icons?i=discord" height="55"/>
   </a>
 </p>
 
