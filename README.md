@@ -171,9 +171,7 @@ SQLite
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
 </p>
 
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharshinethani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
+
 
 ---
 
