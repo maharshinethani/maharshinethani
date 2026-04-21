@@ -10,7 +10,9 @@
 <img src="https://komarev.com/ghpvc/?username=maharshinethani&color=00e5ff&style=for-the-badge&label=SYSTEM%20VISITS"/>
 </p>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 # 🧠 The Developer Behind the Systems
 
@@ -27,7 +29,9 @@ I build **production-grade AI platforms** that combine **machine intelligence, h
 
 > **"Software is not just built. It is engineered to evolve."**
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 # 🧩 Core Technology Domains
 
@@ -78,7 +82,9 @@ I build **production-grade AI platforms** that combine **machine intelligence, h
 </tr>
 </table>
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 # 🚀 Flagship Systems
 
@@ -92,7 +98,9 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 
 Goal: **Bridge Artificial Intelligence with Preventive Healthcare.**
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 ### ⚛️ QOIS — Quantum Operational Intelligence System
 
@@ -107,7 +115,9 @@ Core Capabilities:
 
 Powered by **QUBO mathematical optimization models.**
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 ### 🤖 SmartOps AI HR Automation
 
@@ -120,7 +130,9 @@ Features:
 • Employee Intelligence Dashboard  
 • Predictive Hiring Insights  
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 # ⚙️ Technology Stack
 
@@ -158,8 +170,9 @@ REST APIs
 MongoDB  
 PostgreSQL  
 SQLite  
-
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 
 ## ⚡ Contribution Intelligence
@@ -171,8 +184,9 @@ SQLite
 </p>
 
 
-
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 ## 📡 Development Activity
 
@@ -197,7 +211,9 @@ SQLite
 
 🚀 **Award - Best Website Designer**
 
----
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 # 🌍 Connect & Collaborate
 
