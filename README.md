@@ -166,9 +166,7 @@ SQLite
 </a>
 </p>
 
-<p align="center">
-✨ Open to collaborations, innovative projects, and global opportunities.
-</p>
+
 
 
 
