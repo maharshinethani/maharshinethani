@@ -32,63 +32,35 @@ From **AI-driven assistants and smart automation systems** to **advanced analyti
 
 # ⚙️ Technology Stack
 
-## 👨‍💻 Programming Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java&perline=6" />
-</p>
 
----
+### 👨‍💻 Programming Languages
 
-## 🌐 Full Stack Development
+<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,fastapi&perline=8" />
-</p>
+### 🌐 Full Stack Development
 
-<p align="center">
-<img src="https://img.shields.io/badge/REST%20API-Backend%20Architecture-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,fastapi&theme=dark" />
 
----
+### 🤖 AI • Data • Analytics
 
-## 🤖 Artificial Intelligence & Data
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python&perline=6"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-AI%20Systems-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-Power%20BI-yellow?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Data%20Processing-Python-blue?style=for-the-badge&logo=python"/>
-</p>
 
----
+### ⚙️ DevOps • Cloud • Tools
 
-## ⚙️ DevOps • Cloud • Engineering Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman&theme=dark" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux,vscode,postman&perline=8"/>
-</p>
+### ☁️ Deployment Platforms
 
-<p align="center">
-<img src="https://img.shields.io/badge/Render-Cloud%20Deployment-black?style=for-the-badge&logo=render"/>
-<img src="https://img.shields.io/badge/Netlify-Web%20Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
-</p>
+<img src="https://img.shields.io/badge/Render-Cloud-black?style=for-the-badge&logo=render"/>
+<img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify"/>
 
----
-
-## 🧰 Additional Engineering Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
 
