@@ -27,54 +27,6 @@ I build **production-grade AI platforms** that combine **machine intelligence, h
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
-# 🧩 Core Technology Domains
-
-<table>
-<tr>
-<td width="100%">
-
-### 🧠 Artificial Intelligence
-• Generative AI  
-• Medical AI Systems  
-• Multimodal Intelligence  
-• Predictive Modeling  
-• Gemini API Integrations  
-
-</td>
-
-<td width="100%">
-
-### 🌐 Full Stack Engineering
-• React + Vite Applications  
-• Tailwind Cinematic UI  
-• High Performance Interfaces  
-• Scalable Web Architectures  
-
-</td>
-</tr>
-
-<tr>
-<td width="100%">
-
-### ⚛️ Optimization Systems
-• Mathematical Optimization  
-• Quantum Inspired Algorithms  
-• QUBO Problem Modeling  
-• Enterprise Workflow Optimization  
-
-</td>
-
-<td width="50%">
-
-### 📊 Data Intelligence
-• Data Engineering Pipelines  
-• SQL & NoSQL Architectures  
-• Power BI Analytics  
-• Business Intelligence Dashboards  
-
-</td>
-</tr>
-</table>
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
