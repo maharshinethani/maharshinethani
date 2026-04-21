@@ -98,9 +98,7 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 
 Goal: **Bridge Artificial Intelligence with Preventive Healthcare.**
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
+---
 
 ### ⚛️ QOIS — Quantum Operational Intelligence System
 
@@ -115,9 +113,7 @@ Core Capabilities:
 
 Powered by **QUBO mathematical optimization models.**
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
+---
 
 ### 🤖 SmartOps AI HR Automation
 
@@ -130,15 +126,11 @@ Features:
 • Employee Intelligence Dashboard  
 • Predictive Hiring Insights  
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
+---
 
 # ⚙️ Technology Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,react,vite,tailwind,fastapi,nodejs,mongodb,postgres,docker,git,github,vscode"/>
-</p>
+---
 
 ### 🧰 Core Technologies
 
