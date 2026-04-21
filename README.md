@@ -196,5 +196,11 @@ Features:
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
+## 💡 Personal Touch
 
+I believe great technology is not just about writing code — it is about **engineering systems that think, learn, and evolve**.
+
+I enjoy building **AI-driven platforms, intelligent assistants, and automation systems** that transform complex ideas into real-world solutions.
+
+> **“The best technology feels like magic — until you understand the engineering behind it.”** 🚀
 <p align="center" style="margin-top:4px;"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:5f00ff&height=120&section=footer&width=1000" width="100%"/> </p>
