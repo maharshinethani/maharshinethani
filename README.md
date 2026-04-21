@@ -148,31 +148,33 @@ SQLite
 </p>
 
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2>🌐 Connect With Me</h2>
+
+<h2 align="center" style="letter-spacing: 3px; color: #00f2fe; text-transform: uppercase;">📡 Transmission Protocols</h2>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/nethani-rohit">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>
-
-<a href="https://rcmverse.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Universe-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
-</a>
-
-<a href="mailto:maharshinethani@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Build%20Something-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-</a>
-
+  <a href="https://linkedin.com/in/nethani-rohit">
+    <img src="https://img.shields.io/badge/LinkedIn-NETWORK%20LINK-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://rcmverse.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-CORE%20UNIVERSE-7000ff?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="mailto:maharshinethani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-INITIATE%20CONTACT-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Open+for+Collaboration;Building+Next+Gen+AI+Systems;Let's+Create+Impact+Together"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=00f2fe&center=true&vCenter=true&width=500&lines=INITIATING+NEURAL+HANDSHAKE...;BUILDING+THE+FUTURE+OF+AI;OPEN+FOR+GLOBAL+COLLABORATION;LET'S+ARCHITECT+THE+IMPOSSIBLE"/>
 </p>
 
-<p align="center">
-✨ <b>Open to collaborations, innovative projects, and global opportunities.</b> 🚀  
-</p>
+<div align="center" style="background: rgba(0, 242, 254, 0.05); border: 1px solid rgba(0, 242, 254, 0.2); padding: 15px; border-radius: 10px; margin: 20px;">
+  <p style="color: #8b949e; font-family: 'Orbitron', sans-serif; font-size: 0.9em; margin: 0;">
+    ✨ <b>SYSTEM STATUS:</b> Available for high-impact AI Engineering & Intelligent Systems Architecture. 🚀
+  </p>
+</div>
+
+
 
 
 
