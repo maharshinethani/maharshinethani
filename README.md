@@ -170,9 +170,7 @@ SQLite
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=22c55e"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,50:22c55e,100:8b5cf6&height=3"/>
-</p>
+
 
 ---
 
