@@ -196,9 +196,7 @@ Built using **AI APIs, React, and modern web technologies.**
 # ⚡ Contribution Intelligence
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=tokyonight"/>
-</p>
+
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=22c55e"/>
 </p>
 
@@ -210,7 +208,7 @@ Built using **AI APIs, React, and modern web technologies.**
 # 📡 Development Activity
 
 <p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=4facfe&point=8b5cf6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=tokyonight"/>
 </p>
 <p align="center">
 <b>⚡ Continuous commits → Continuous evolution</b>
