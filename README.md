@@ -195,23 +195,34 @@ Features:
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
----
 
-## 💡 Personal Touch
+## 💡 Beyond Code
 
-Technology, to me, is more than writing code —  
-it is about **engineering intelligent systems that can think, learn, and evolve.**
+For me, technology is not just about writing programs —  
+it is about **engineering intelligence that can solve real-world problems.**
 
-I enjoy transforming **complex ideas into real-world AI solutions**, building  
-**intelligent assistants, automation platforms, and scalable digital systems**  
-that create meaningful impact.
+I enjoy designing and building **AI-driven systems, intelligent assistants, and scalable digital platforms** that transform complex ideas into **impactful solutions**.
 
-> 🚀 **Mindset**
+Every project I build is a step toward creating **smarter systems, better automation, and meaningful technology.**
+
+<br>
+
+> 🚀 **Developer Mindset**
 >
 > **“The best technology feels like magic —  
 > until you understand the engineering behind it.”**
 
-⚡ *Fun Fact:* I love turning complex problems into elegant intelligent systems.
+<br>
 
----
+⚡ **Fun Fact:**  
+I love turning **complex problems into elegant intelligent systems.**
+
+🌍 **Vision:**  
+To build technology that is **intelligent, scalable, and impactful across the world.**
+
+
+
+<p align="center">
+✨ <i>Engineering the future, one intelligent system at a time.</i> ✨
+</p>
 <p align="center" style="margin-top:4px;"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:5f00ff&height=120&section=footer&width=1000" width="100%"/> </p>
