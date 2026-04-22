@@ -238,8 +238,7 @@ Open to opportunities in:
 
 # 🏆 Achievements
 
-🥈 **Runner-Up — Amaravati Quantum Valley Hackathon**  
-
+🥈 **Runner-Up — Amaravati Quantum Valley Hackathon** <br>
 🎨 **Award - Best Website Designer**<br><br>
 **Recognized for outstanding UI/UX design and innovative web development.**
 <p align="center">
