@@ -240,7 +240,6 @@ Open to opportunities in:
 
 🥈 **Runner-Up — Amaravati Quantum Valley Hackathon**  
 
-
 🎨 **Award - Best Website Designer**<br><br>
 **Recognized for outstanding UI/UX design and innovative web development.**
 <p align="center">
