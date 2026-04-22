@@ -212,9 +212,14 @@ Built using **AI APIs, React, and modern web technologies.**
 # 📡 Development Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=algolia"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maharshinethani&theme=algolia"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maharshinethani&theme=algolia"/>
 </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maharshinethani&theme=algolia"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maharshinethani&theme=algolia&utcOffset=5"/>
+</p>
 
 
 
