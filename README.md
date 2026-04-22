@@ -212,7 +212,7 @@ Built using **AI APIs, React, and modern web technologies.**
 # 📡 Development Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=vue"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=solarized"/>
 </p>
 
 
