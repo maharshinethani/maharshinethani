@@ -195,11 +195,12 @@ Built using **AI APIs, React, and modern web technologies.**
 
 <!-- ⚡ CONTRIBUTION INTELLIGENCE -->
 
-<h2 align="center">⚡ Contribution Intelligence</h2>
+#⚡ Contribution Intelligence
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00E5FF&title_color=5F9CFF"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=maharshinethani&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=6366F1&currStreakLabel=00E5FF"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00E5FF&title_color=5F9CFF"/>
+
 </p>
 
 <p align="center">
@@ -208,16 +209,21 @@ Built using **AI APIs, React, and modern web technologies.**
 
 <!-- 📡 DEVELOPMENT ACTIVITY -->
 
-<h2 align="center">📡 Development Activity</h2>
+# 📡 Development Activity
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:3B82F6,100:5F00FF&height=4"/>
+</p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maharshinethani&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maharshinethani&theme=tokyonight"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5F00FF,50:3B82F6,100:00E5FF&height=4"/>
 </p>
+
+
 
 <p align="center">
 <b>⚡ Continuous commits → Continuous evolution</b>
