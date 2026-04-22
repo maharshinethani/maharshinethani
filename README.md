@@ -133,22 +133,7 @@ Powered by **QUBO mathematical optimization models.**
 🌐 **Website:** https://qops.netlify.app/<br>
 💻 **GitHub:** https://github.com/username/project
 
----
 
-### 🛒 E-commerce Web Application
-A **responsive e-commerce platform** with a complete shopping workflow.
-
-**Key Features:**
-
-• Product Catalog  
-• Shopping Cart System  
-• User Authentication  
-• Order Processing  
-
-Built using **HTML, CSS, and JavaScript.**
-
-🌐 **Website:** https://rcmart.netlify.app/<br>
-💻 **GitHub:** https://github.com/username/project
 
 ---
 
