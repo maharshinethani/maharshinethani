@@ -117,15 +117,16 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 • Symptom Intelligence  
 • Real-time Health Monitoring  
 
-🎯 Goal: **Bridge Artificial Intelligence with Preventive Healthcare.**
+🎯 **Goal:** Bridge Artificial Intelligence with Preventive Healthcare.  
 
-🔗 Website: https://mahasanjeevan.netlify.app/
+🌐 **Website:** https://mahasanjeevan.netlify.app/
+
 ---
 
 ### ⚛️ QOIS — Quantum Operational Intelligence System
 A **high-performance optimization engine** designed for enterprise environments.
 
-Core Capabilities:
+**Core Capabilities:**
 
 • Logistics Optimization  
 • Workflow Intelligence  
@@ -134,15 +135,14 @@ Core Capabilities:
 
 Powered by **QUBO mathematical optimization models.**
 
-🔗 Website: https://qops.netlify.app/
+🌐 **Website:** https://qops.netlify.app/
 
 ---
 
-
 ### 🛒 E-commerce Web Application
-A **responsive e-commerce platform** with complete shopping workflow.
+A **responsive e-commerce platform** with a complete shopping workflow.
 
-Key Features:
+**Key Features:**
 
 • Product Catalog  
 • Shopping Cart System  
@@ -151,14 +151,14 @@ Key Features:
 
 Built using **HTML, CSS, and JavaScript.**
 
-🔗 Website: https://rcmart.netlify.app/
+🌐 **Website:** https://rcmart.netlify.app/
 
 ---
 
 ### 🎟️ VisionXAI – AI Event Website
 A **modern multi-page event promotion website** designed for the VisionXAI event.
 
-Highlights:
+**Highlights:**
 
 • Professional UI/UX Design  
 • Responsive Layout  
@@ -166,21 +166,24 @@ Highlights:
 • Event Information Showcase  
 
 Built using **HTML, CSS, JavaScript, React, and Tailwind.**
-🔗 Website: https://rcmart.netlify.app/
+
+🌐 **Website:** https://rcmart.netlify.app/
+
 ---
 
 ### 🧠 AI Health Care Diagnosis Center
 An **AI-powered healthcare platform** for disease prediction and wellness guidance.
 
-Features:
+**Features:**
 
 • Disease Prediction System  
 • Mental Health Chatbot  
 • Nearby Hospital & Lab Locator  
 • AI Wellness Recommendations  
 
-Built using **React, Tailwind, and AI APIs.** 
-🔗 Website: https://rcmcareer.netlify.app/
+Built using **React, Tailwind, and AI APIs.**
+
+🌐 **Website:** https://rcmcareer.netlify.app/
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
