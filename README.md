@@ -99,7 +99,10 @@ My focus is on designing systems that combine **AI, automation, and modern softw
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
+
 # 🚀 Featured Projects
+
+
 ### 🏥 Maha Sanjeevan - AI Healthcare Ecosystem
 An advanced **AI-powered healthcare intelligence platform** integrating:
 
