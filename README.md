@@ -90,6 +90,7 @@ I am **Rohit Chandra Maharshi**, an **Artificial Intelligence & Software Enginee
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
+
 # 🧠 Engineering Philosophy
 
 I believe great software is not just written — it is **engineered with purpose, scalability, and intelligence**.
