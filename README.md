@@ -24,6 +24,13 @@ I am Rohit Chandra Maharshi, an Artificial Intelligence & Software Engineer buil
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
+# 🎯 Current Focus
+🚀 Building **AI-powered intelligent systems and scalable digital platforms**  
+
+🧠 Advancing expertise in **Artificial Intelligence, Machine Learning, and Data Intelligence**  
+
+⚙️ Creating **automation-driven solutions that solve real-world problems**
+
 # ⚡ Technology Stack
 
 <table align="center" width="950">
@@ -80,34 +87,6 @@ I am Rohit Chandra Maharshi, an Artificial Intelligence & Software Engineer buil
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
-
-
-## ⚡ Contribution Intelligence
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&title_color=4facfe&icon_color=22c55e&text_color=cbd5f5"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=22c55e"/>
-</p>
-
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
-
-## 📡 Development Activity
-
-<p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=4facfe&point=8b5cf6"/>
-</p>
-<p align="center">
-<b>⚡ Continuous commits → Continuous evolution</b>
-</p>
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
-
-
 # 🚀 Featured Projects
 
 ### 🏥 Maha Sanjeevan - AI Healthcare Ecosystem
@@ -195,6 +174,34 @@ Built using **AI APIs, React, and modern web technologies.**
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
+## ⚡ Contribution Intelligence
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&title_color=4facfe&icon_color=22c55e&text_color=cbd5f5"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=22c55e"/>
+</p>
+
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
+
+## 📡 Development Activity
+
+<p align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=4facfe&point=8b5cf6"/>
+</p>
+<p align="center">
+<b>⚡ Continuous commits → Continuous evolution</b>
+</p>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
+
+
+
+
 # 🏆 Achievements
 
 🥈 **Runner-Up — Amaravati Quantum Valley Hackathon**  
@@ -234,16 +241,7 @@ Built using **AI APIs, React, and modern web technologies.**
 <p align="center">
 <img src="https://img.shields.io/badge/🚀%20Building%20Next%20Gen%20AI%20Systems%20•%20🌍%20Open%20for%20Global%20Collaboration%20•%20⚡%20Architecting%20Digital%20Ecosystems-0d1117?style=for-the-badge&logoColor=white&labelColor=3a0ca3&color=031d44"/>
 </p>
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
 
-# 🎯 Current Focus
-🚀 Building **AI-powered intelligent systems and scalable digital platforms**  
-
-🧠 Advancing expertise in **Artificial Intelligence, Machine Learning, and Data Intelligence**  
-
-⚙️ Creating **automation-driven solutions that solve real-world problems**
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
