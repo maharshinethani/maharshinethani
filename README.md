@@ -197,7 +197,7 @@ Features:
 </p>
 
 
-## 💡 Beyond Code
+#💡 Beyond Code
 
 For me, technology is more than writing programs —  
 it is about **engineering intelligence that solves real-world problems.**
