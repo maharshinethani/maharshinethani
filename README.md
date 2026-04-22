@@ -119,8 +119,7 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 
 🎯 Goal: **Bridge Artificial Intelligence with Preventive Healthcare.**
 
-🔗 GitHub: https://github.com/your-github/maha-sanjeevan-ai
-
+🔗 Website: https://mahasanjeevan.netlify.app/
 ---
 
 ### ⚛️ QOIS — Quantum Operational Intelligence System
@@ -135,23 +134,10 @@ Core Capabilities:
 
 Powered by **QUBO mathematical optimization models.**
 
-🔗 GitHub: https://github.com/your-github/qois-system
+🔗 Website: https://qops.netlify.app/
 
 ---
 
-### 🤖 SmartOps AI HR Automation
-An **AI-driven HR CRM system** designed for automated recruitment and workforce management.
-
-Features:
-
-• Candidate Screening AI  
-• Automated HR Workflows  
-• Employee Intelligence Dashboard  
-• Predictive Hiring Insights  
-
-🔗 GitHub: https://github.com/your-github/smartops-hr-ai
-
----
 
 ### 🛒 E-commerce Web Application
 A **responsive e-commerce platform** with complete shopping workflow.
@@ -165,7 +151,7 @@ Key Features:
 
 Built using **HTML, CSS, and JavaScript.**
 
-🔗 GitHub: https://github.com/your-github/ecommerce-app
+🔗 Website: https://rcmart.netlify.app/
 
 ---
 
@@ -180,7 +166,7 @@ Highlights:
 • Event Information Showcase  
 
 Built using **HTML, CSS, JavaScript, React, and Tailwind.**
-
+🔗 Website: https://rcmart.netlify.app/
 ---
 
 ### 🧠 AI Health Care Diagnosis Center
@@ -194,7 +180,7 @@ Features:
 • AI Wellness Recommendations  
 
 Built using **React, Tailwind, and AI APIs.** 
-
+🔗 Website: https://rcmcareer.netlify.app/
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
