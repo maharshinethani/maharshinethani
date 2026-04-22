@@ -102,7 +102,7 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 
 🎯 **Goal:** Bridge Artificial Intelligence with Preventive Healthcare.  
 
-🌐 **Website:** https://mahasanjeevan.netlify.app/
+🌐 **Website:** https://mahasanjeevan.netlify.app/ <br>
 💻 **GitHub:** https://github.com/username/project
 
 ---
