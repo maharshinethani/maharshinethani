@@ -258,7 +258,7 @@ it is about **engineering intelligence that solves real-world problems.**
 
 I enjoy building **AI-driven systems, intelligent assistants, and scalable platforms** that transform complex ideas into **impactful solutions**.
 
-> 🚀 **Developer Mindset**  
+> 🚀 **My Mindset**  
 > **“The best technology feels like magic — until you understand the engineering behind it.”**
 
 ⚡ **Fun Fact:** I love turning **complex problems into elegant intelligent systems.**
