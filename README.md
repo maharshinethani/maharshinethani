@@ -214,7 +214,9 @@ Built using **AI APIs, React, and modern web technologies.**
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=algolia" style="clip-path: inset(40px 0px 0px 0px);"/>
 </p>
 
-
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=github-dark&hide_border=true"/>
+</p>
 <p align="center">
 <b>⚡ Continuous commits → Continuous evolution</b>
 </p>
