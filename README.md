@@ -155,7 +155,7 @@ Built using **HTML, CSS, JavaScript, React, and Tailwind.**
 ---
 
 
-### 🚀 Career AI – Intelligent Career Development Platform
+### 🤖 Career AI – Intelligent Career Development Platform
 An **AI-powered career growth ecosystem** designed to help users build resumes, prepare for jobs, and improve skills.
 
 
