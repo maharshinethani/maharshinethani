@@ -257,6 +257,7 @@ An **AI-powered career growth ecosystem** designed to help users build resumes, 
 
 
 **Core Features:**
+
 • Resume Analysis  
 • Job Matching  
 • AI Assistant  
