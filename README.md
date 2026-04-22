@@ -206,7 +206,7 @@ Built using **AI APIs, React, and modern web technologies.**
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
-## 📡 Development Activity
+# 📡 Development Activity
 
 <p align="center">
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=4facfe&point=8b5cf6"/>
