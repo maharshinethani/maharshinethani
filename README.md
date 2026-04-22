@@ -124,7 +124,7 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 
 ---
 
-### ⚛️ QOIS — Quantum Operational Intelligence System
+### ⚛️ QOIS - Quantum Operational Intelligence System
 A **high-performance optimization engine** designed for enterprise environments.
 
 **Core Capabilities:**
