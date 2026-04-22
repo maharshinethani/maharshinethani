@@ -257,22 +257,12 @@ An **AI-powered career growth ecosystem** designed to help users build resumes, 
 
 
 **Core Features:**
-
 • Resume Analysis  
 • Job Matching  
 • AI Assistant  
 • Skill Gap Analysis  
 • Mock Interview  
 • Career Path Guidance  
-
-**Additional Tools:**
-
-• Resume Builder  
-• Cover Letter Builder  
-• Portfolio Generator  
-• Job Tracker  
-• Coding Practice  
-• Peer Review 
 
 Built using **AI APIs, React, and modern web technologies.**
 
