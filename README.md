@@ -211,17 +211,13 @@ Built using **AI APIs, React, and modern web technologies.**
 
 # 📡 Development Activity
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:3B82F6,100:5F00FF&height=4"/>
-</p>
+
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5F00FF,50:3B82F6,100:00E5FF&height=4"/>
-</p>
+
 
 
 
