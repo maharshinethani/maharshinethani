@@ -172,21 +172,6 @@ Built using **HTML, CSS, JavaScript, React, and Tailwind.**
 
 ---
 
-### 🧠 AI Health Care Diagnosis Center
-An **AI-powered healthcare platform** for disease prediction and wellness guidance.
-
-**Features:**
-
-• Disease Prediction System  
-• Mental Health Chatbot  
-• Nearby Hospital & Lab Locator  
-• AI Wellness Recommendations  
-
-Built using **React, Tailwind, and AI APIs.**
-
-🌐 **Website:** https://rcmcareer.netlify.app/
-
----
 
 ### 🚀 Career AI – Intelligent Career Development Platform
 An **AI-powered career growth ecosystem** designed to help users build resumes, prepare for jobs, and improve skills.
