@@ -236,11 +236,12 @@ Open to opportunities in:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-🥈 **Runner-Up — Amaravati Quantum Valley Hackathon** <br>
-🎨 **Award - Best Website Designer**<br>
-**Recognized for outstanding UI/UX design and innovative web development.**
+🥈 Runner-Up — Amaravati Quantum Valley Hackathon  
+🎨 Best Website Designer  
+
+> Built high-impact UI/UX and intelligent web systems
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
