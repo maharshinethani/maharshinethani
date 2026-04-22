@@ -171,6 +171,70 @@ Built using **HTML, CSS, JavaScript, React, and Tailwind.**
 
 ---
 
+# 🚀 Flagship Systems
+
+### 🏥 Maha Sanjeevan AI Healthcare Ecosystem
+An advanced **AI-powered healthcare intelligence platform** integrating:
+
+• Medical Encyclopedia  
+• Nutrition Vision AI  
+• Symptom Intelligence  
+• Real-time Health Monitoring  
+
+🎯 **Goal:** Bridge Artificial Intelligence with Preventive Healthcare.  
+
+🌐 **Website:** https://mahasanjeevan.netlify.app/
+
+---
+
+### ⚛️ QOIS — Quantum Operational Intelligence System
+A **high-performance optimization engine** designed for enterprise environments.
+
+**Core Capabilities:**
+
+• Logistics Optimization  
+• Workflow Intelligence  
+• Resource Allocation  
+• Decision Modeling  
+
+Powered by **QUBO mathematical optimization models.**
+
+🌐 **Website:** https://qops.netlify.app/
+
+---
+
+### 🛒 E-commerce Web Application
+A **responsive e-commerce platform** with a complete shopping workflow.
+
+**Key Features:**
+
+• Product Catalog  
+• Shopping Cart System  
+• User Authentication  
+• Order Processing  
+
+Built using **HTML, CSS, and JavaScript.**
+
+🌐 **Website:** https://rcmart.netlify.app/
+
+---
+
+### 🎟️ VisionXAI – AI Event Website
+A **modern multi-page event promotion website** designed for the VisionXAI event.
+
+**Highlights:**
+
+• Professional UI/UX Design  
+• Responsive Layout  
+• Multi-Page Navigation  
+• Event Information Showcase  
+
+Built using **HTML, CSS, JavaScript, React, and Tailwind.**
+
+🌐 **Website:** https://visionxai.netlify.app/
+
+---
+
 ### 🧠 AI Health Care Diagnosis Center
 An **AI-powered healthcare platform** for disease prediction and wellness guidance.
 
@@ -184,9 +248,30 @@ An **AI-powered healthcare platform** for disease prediction and wellness guidan
 Built using **React, Tailwind, and AI APIs.**
 
 🌐 **Website:** https://rcmcareer.netlify.app/
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
+
+---
+
+### 🚀 Career AI – Intelligent Career Development Platform
+An **AI-powered career growth ecosystem** designed to help users build resumes, prepare for jobs, and improve skills.
+
+**Platform Features:**
+
+• Resume Analysis  
+• Resume Builder  
+• Cover Letter Builder  
+• Portfolio Generator  
+• Job Matching  
+• Job Tracker  
+• Career Path Guidance  
+• AI Assistant  
+• Skill Gap Analysis  
+• Coding Practice  
+• Mock Interview  
+• Peer Review  
+
+Built using **AI APIs, React, and modern web technologies.**
+
+🌐 **Website:** https://rcmcareer.netlify.app/
 
 
 
