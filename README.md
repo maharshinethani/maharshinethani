@@ -30,6 +30,9 @@ I am Rohit Chandra Maharshi, an Artificial Intelligence & Software Engineer buil
 🧠 Advancing expertise in **Artificial Intelligence, Machine Learning, and Data Intelligence**  
 
 ⚙️ Creating **automation-driven solutions that solve real-world problems**
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 # ⚡ Technology Stack
 
@@ -87,8 +90,8 @@ I am Rohit Chandra Maharshi, an Artificial Intelligence & Software Engineer buil
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
-# 🚀 Featured Projects
 
+# 🚀 Featured Projects
 ### 🏥 Maha Sanjeevan - AI Healthcare Ecosystem
 An advanced **AI-powered healthcare intelligence platform** integrating:
 
