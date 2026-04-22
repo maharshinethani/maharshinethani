@@ -239,6 +239,9 @@ I enjoy building **AI-driven systems, intelligent assistants, and scalable platf
 <p align="center">
 ✨ <i>Engineering the future, one intelligent system at a time.</i> ✨
 </p>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 <h2 >🌐 Connect With Me</h2>
 
 <p align="center">
