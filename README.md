@@ -10,7 +10,7 @@
 
 # 🧠 The Engineer Behind Intelligent Systems
 
-I am Rohit Chandra Maharshi, an Artificial Intelligence & Software Engineer building intelligent systems and scalable digital platforms that solve real-world problems
+I am **Rohit Chandra Maharshi**, an **Artificial Intelligence & Software Engineer** focused on building intelligent systems and scalable digital platforms that solve real-world problems.
 
 **Focus Areas**  
 ⚡ AI & Machine Learning  
@@ -102,8 +102,8 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 
 🎯 **Goal:** Bridge Artificial Intelligence with Preventive Healthcare.  
 
-🌐 **Website:** https://mahasanjeevan.netlify.app/
-
+🌐 Website: https://mahasanjeevan.netlify.app/  
+💻 GitHub: https://github.com/username/project
 ---
 
 ### ⚛️ QOIS - Quantum Operational Intelligence System
@@ -177,35 +177,29 @@ Built using **AI APIs, React, and modern web technologies.**
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
-## ⚡ GitHub Intelligence
+## ⚡ Contribution Intelligence
 
 <p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&title_color=4facfe&icon_color=22c55e&text_color=cbd5f5"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&icon_color=22c55e&text_color=cbd5f5"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6"/>
-
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maharshinethani&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=22c55e"/>
 </p>
+
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharshinethani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
----
-
-## 📈 Development Activity
+## 📡 Development Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=4facfe&point=8b5cf6"/>
-
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=4facfe&point=8b5cf6"/>
 </p>
-
 <p align="center">
-⚡ <b>Consistent coding • Continuous learning • Constant evolution</b>
+<b>⚡ Continuous commits → Continuous evolution</b>
 </p>
+
+
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
