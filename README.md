@@ -192,8 +192,7 @@ Built using **AI APIs, React, and modern web technologies.**
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
-
-## ⚡ Contribution Intelligence
+# ⚡ Contribution Intelligence
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&title_color=4facfe&icon_color=22c55e&text_color=cbd5f5"/>
