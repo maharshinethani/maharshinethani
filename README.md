@@ -26,47 +26,47 @@ I am Rohit Chandra Maharshi, an Artificial Intelligence & Software Engineer buil
 
 # ⚡ Technology Stack
 
-<table align="center" width="100%" cellspacing="0" cellpadding="10">
+<table align="center" width="950">
 
 <tr>
-<td width="40%"><b>👨‍💻 Programming Languages</b></td>
-<td width="60%">
-<img src="https://skillicons.dev/icons?i=python,java,c&perline=6" height="50"/>
+<td width="45%"><b>👨‍💻 Programming Languages</b></td>
+<td width="55%">
+<img src="https://skillicons.dev/icons?i=python,java,c" height="50"/>
 </td>
 </tr>
 
 <tr>
 <td><b>🌐 Frontend Development</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=6" height="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="50"/>
 </td>
 </tr>
 
 <tr>
 <td><b>⚙️ Backend Development</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb&perline=6" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" height="50"/>
 </td>
 </tr>
 
 <tr>
 <td><b>🛠 Tools</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=vscode,postman&perline=6" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman" height="50"/>
 </td>
 </tr>
 
 <tr>
 <td><b>☁️ Cloud & DevOps</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux&perline=6" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,github,linux" height="50"/>
 </td>
 </tr>
 
 <tr>
 <td><b>📊 Analytics & Deployment</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=netlify&perline=6" height="50"/>
+<img src="https://skillicons.dev/icons?i=netlify" height="50"/>
 <img src="https://cdn.simpleicons.org/render" height="50"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" height="50"/>
 </td>
