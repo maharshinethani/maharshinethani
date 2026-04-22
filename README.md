@@ -104,6 +104,7 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 
 🌐 **Website:** https://mahasanjeevan.netlify.app/
 💻 **GitHub:** https://github.com/username/project
+
 ---
 
 ### ⚛️ QOIS - Quantum Operational Intelligence System
