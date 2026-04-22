@@ -26,13 +26,11 @@ I am Rohit Chandra Maharshi, an Artificial Intelligence & Software Engineer buil
 
 # ⚡ Technology Stack
 
-<p align="center">
-
-<table align="center">
+<table align="center" width="100%">
 
 <tr>
-<td width="40%"><b>👨‍💻 Programming Languages</b></td>
-<td width="60%">
+<td width="35%"><b>👨‍💻 Programming Languages</b></td>
+<td width="65%">
 <img src="https://skillicons.dev/icons?i=python,java,c" height="45"/>
 </td>
 </tr>
