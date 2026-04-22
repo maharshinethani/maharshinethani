@@ -196,30 +196,20 @@ Features:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
+
 ## 💡 Beyond Code
 
-For me, technology is not just about writing programs —  
-it is about **engineering intelligence that can solve real-world problems.**
+For me, technology is more than writing programs —  
+it is about **engineering intelligence that solves real-world problems.**
 
-I enjoy designing and building **AI-driven systems, intelligent assistants, and scalable digital platforms** that transform complex ideas into **impactful solutions**.
+I enjoy building **AI-driven systems, intelligent assistants, and scalable platforms** that transform complex ideas into **impactful solutions**.
 
-Every project I build is a step toward creating **smarter systems, better automation, and meaningful technology.**
+> 🚀 **Developer Mindset**  
+> **“The best technology feels like magic — until you understand the engineering behind it.”**
 
-<br>
+⚡ **Fun Fact:** I love turning **complex problems into elegant intelligent systems.**
 
-> 🚀 **Developer Mindset**
->
-> **“The best technology feels like magic —  
-> until you understand the engineering behind it.”**
-
-<br>
-
-⚡ **Fun Fact:**  
-I love turning **complex problems into elegant intelligent systems.**
-
-🌍 **Vision:**  
-To build technology that is **intelligent, scalable, and impactful across the world.**
-
+🌍 **Vision:** Building technology that is **intelligent, scalable, and impactful.**
 
 
 <p align="center">
