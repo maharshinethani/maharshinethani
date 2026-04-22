@@ -102,8 +102,8 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 
 🎯 **Goal:** Bridge Artificial Intelligence with Preventive Healthcare.  
 
-🌐 Website: https://mahasanjeevan.netlify.app/  
-💻 GitHub: https://github.com/username/project
+🌐 **Website:** https://mahasanjeevan.netlify.app/
+💻 **GitHub:** https://github.com/username/project
 ---
 
 ### ⚛️ QOIS - Quantum Operational Intelligence System
