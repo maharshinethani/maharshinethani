@@ -254,20 +254,25 @@ Built using **React, Tailwind, and AI APIs.**
 ### 🚀 Career AI – Intelligent Career Development Platform
 An **AI-powered career growth ecosystem** designed to help users build resumes, prepare for jobs, and improve skills.
 
-**Platform Features:**
+
+
+**Core Features:**
 
 • Resume Analysis  
+• Job Matching  
+• AI Assistant  
+• Skill Gap Analysis  
+• Mock Interview  
+• Career Path Guidance  
+
+**Additional Tools:**
+
 • Resume Builder  
 • Cover Letter Builder  
 • Portfolio Generator  
-• Job Matching  
 • Job Tracker  
-• Career Path Guidance  
-• AI Assistant  
-• Skill Gap Analysis  
 • Coding Practice  
-• Mock Interview  
-• Peer Review  
+• Peer Review 
 
 Built using **AI APIs, React, and modern web technologies.**
 
