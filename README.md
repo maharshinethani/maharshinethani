@@ -110,7 +110,7 @@ I am Rohit Chandra Maharshi, an Artificial Intelligence & Software Engineer buil
 
 # 🚀 Featured Projects
 
-### 🏥 Maha Sanjeevan AI Healthcare Ecosystem
+### 🏥 Maha Sanjeevan - AI Healthcare Ecosystem
 An advanced **AI-powered healthcare intelligence platform** integrating:
 
 • Medical Encyclopedia  
