@@ -217,6 +217,28 @@ Built using **AI APIs, React, and modern web technologies.**
 </p>
 
 
+
+
+
+
+# 💡 Beyond Code
+
+For me, technology is more than writing programs —  
+it is about **engineering intelligence that solves real-world problems.**
+
+I enjoy building **AI-driven systems, intelligent assistants, and scalable platforms** that transform complex ideas into **impactful solutions**.
+
+> 🚀 **Developer Mindset**  
+> **“The best technology feels like magic — until you understand the engineering behind it.”**
+
+⚡ **Fun Fact:** I love turning **complex problems into elegant intelligent systems.**
+
+🌍 **Vision:** Building technology that is **intelligent, scalable, and impactful.**
+
+
+<p align="center">
+✨ <i>Engineering the future, one intelligent system at a time.</i> ✨
+</p>
 <h2 >🌐 Connect With Me</h2>
 
 <p align="center">
@@ -245,27 +267,4 @@ Built using **AI APIs, React, and modern web technologies.**
 <img src="https://img.shields.io/badge/🚀%20Building%20Next%20Gen%20AI%20Systems%20•%20🌍%20Open%20for%20Global%20Collaboration%20•%20⚡%20Architecting%20Digital%20Ecosystems-0d1117?style=for-the-badge&logoColor=white&labelColor=3a0ca3&color=031d44"/>
 </p>
 
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
-</p>
-
-# 💡 Beyond Code
-
-For me, technology is more than writing programs —  
-it is about **engineering intelligence that solves real-world problems.**
-
-I enjoy building **AI-driven systems, intelligent assistants, and scalable platforms** that transform complex ideas into **impactful solutions**.
-
-> 🚀 **Developer Mindset**  
-> **“The best technology feels like magic — until you understand the engineering behind it.”**
-
-⚡ **Fun Fact:** I love turning **complex problems into elegant intelligent systems.**
-
-🌍 **Vision:** Building technology that is **intelligent, scalable, and impactful.**
-
-
-<p align="center">
-✨ <i>Engineering the future, one intelligent system at a time.</i> ✨
-</p>
 <p align="center" style="margin-top:4px;"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:5f00ff&height=120&section=footer&width=1000" width="100%"/> </p>
