@@ -216,7 +216,9 @@ Built using **AI APIs, React, and modern web technologies.**
 </p>
 
 
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maharshinethani&theme=github-dark&hide_border=true"/>
+</p>
 
 <p align="center">
 <b>⚡ Continuous commits → Continuous evolution</b>
