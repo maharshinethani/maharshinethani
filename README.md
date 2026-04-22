@@ -239,13 +239,12 @@ Built using **AI APIs, React, and modern web technologies.**
 </p>
 
 # 🎯 Current Focus
-🚀 Architecting **AI-powered intelligent platforms** that transform complex ideas into real-world solutions  
+🚀 Building **AI-powered intelligent systems and scalable digital platforms**  
 
 🧠 Advancing expertise in **Artificial Intelligence, Machine Learning, and Data Intelligence**  
 
-⚙️ Building **scalable full-stack systems and automation tools** designed for real-world impact  
+⚙️ Creating **automation-driven solutions that solve real-world problems**
 
-🌍 Collaborating on **innovative projects and global opportunities** across AI, software engineering, and digital platforms
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
