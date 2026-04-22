@@ -119,7 +119,8 @@ A **high-performance optimization engine** designed for enterprise environments.
 
 Powered by **QUBO mathematical optimization models.**
 
-🌐 **Website:** https://qops.netlify.app/
+🌐 **Website:** https://qops.netlify.app/<br>
+💻 **GitHub:** https://github.com/username/project
 
 ---
 
@@ -135,7 +136,8 @@ A **responsive e-commerce platform** with a complete shopping workflow.
 
 Built using **HTML, CSS, and JavaScript.**
 
-🌐 **Website:** https://rcmart.netlify.app/
+🌐 **Website:** https://rcmart.netlify.app/<br>
+💻 **GitHub:** https://github.com/username/project
 
 ---
 
@@ -151,7 +153,8 @@ A **modern multi-page event promotion website** designed for the VisionXAI event
 
 Built using **HTML, CSS, JavaScript, React, and Tailwind.**
 
-🌐 **Website:** https://visionxai.netlify.app/
+🌐 **Website:** https://visionxai.netlify.app/<br>
+💻 **GitHub:** https://github.com/username/project
 
 ---
 
@@ -172,7 +175,8 @@ An **AI-powered career growth ecosystem** designed to help users build resumes, 
 
 Built using **AI APIs, React, and modern web technologies.**
 
-🌐 **Website:** https://rcmcareer.netlify.app/
+🌐 **Website:** https://rcmcareer.netlify.app/<br>
+💻 **GitHub:** https://github.com/username/project
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
