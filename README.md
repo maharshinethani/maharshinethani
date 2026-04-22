@@ -195,7 +195,7 @@ Built using **AI APIs, React, and modern web technologies.**
 
 <!-- ⚡ CONTRIBUTION INTELLIGENCE -->
 
-#⚡ Contribution Intelligence
+# ⚡ Contribution Intelligence
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maharshinethani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00E5FF&title_color=00E5FF&hide_title=true"/>
@@ -211,7 +211,7 @@ Built using **AI APIs, React, and modern web technologies.**
 # 📡 Development Activity
 
 <p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=algolia"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maharshinethani&theme=algolia" style="clip-path: inset(40px 0px 0px 0px);"/>
 </p>
 
 
