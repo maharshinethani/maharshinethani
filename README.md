@@ -117,12 +117,13 @@ An advanced **AI-powered healthcare intelligence platform** integrating:
 • Symptom Intelligence  
 • Real-time Health Monitoring  
 
-Goal: **Bridge Artificial Intelligence with Preventive Healthcare.**
+🎯 Goal: **Bridge Artificial Intelligence with Preventive Healthcare.**
+
+🔗 GitHub: https://github.com/your-github/maha-sanjeevan-ai
 
 ---
 
 ### ⚛️ QOIS — Quantum Operational Intelligence System
-
 A **high-performance optimization engine** designed for enterprise environments.
 
 Core Capabilities:
@@ -134,10 +135,11 @@ Core Capabilities:
 
 Powered by **QUBO mathematical optimization models.**
 
+🔗 GitHub: https://github.com/your-github/qois-system
+
 ---
 
 ### 🤖 SmartOps AI HR Automation
-
 An **AI-driven HR CRM system** designed for automated recruitment and workforce management.
 
 Features:
@@ -146,6 +148,52 @@ Features:
 • Automated HR Workflows  
 • Employee Intelligence Dashboard  
 • Predictive Hiring Insights  
+
+🔗 GitHub: https://github.com/your-github/smartops-hr-ai
+
+---
+
+### 🛒 E-commerce Web Application
+A **responsive e-commerce platform** with complete shopping workflow.
+
+Key Features:
+
+• Product Catalog  
+• Shopping Cart System  
+• User Authentication  
+• Order Processing  
+
+Built using **HTML, CSS, and JavaScript.**
+
+🔗 GitHub: https://github.com/your-github/ecommerce-app
+
+---
+
+### 🎟️ VisionXAI – AI Event Website
+A **modern multi-page event promotion website** designed for the VisionXAI event.
+
+Highlights:
+
+• Professional UI/UX Design  
+• Responsive Layout  
+• Multi-Page Navigation  
+• Event Information Showcase  
+
+Built using **HTML, CSS, JavaScript, React, and Tailwind.**
+
+---
+
+### 🧠 AI Health Care Diagnosis Center
+An **AI-powered healthcare platform** for disease prediction and wellness guidance.
+
+Features:
+
+• Disease Prediction System  
+• Mental Health Chatbot  
+• Nearby Hospital & Lab Locator  
+• AI Wellness Recommendations  
+
+Built using **React, Tailwind, and AI APIs.** 
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
