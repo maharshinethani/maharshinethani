@@ -195,11 +195,23 @@ Features:
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
+---
+
 ## 💡 Personal Touch
 
-I believe great technology is not just about writing code — it is about **engineering systems that think, learn, and evolve**.
+Technology, to me, is more than writing code —  
+it is about **engineering intelligent systems that can think, learn, and evolve.**
 
-I enjoy building **AI-driven platforms, intelligent assistants, and automation systems** that transform complex ideas into real-world solutions.
+I enjoy transforming **complex ideas into real-world AI solutions**, building  
+**intelligent assistants, automation platforms, and scalable digital systems**  
+that create meaningful impact.
 
-> **“The best technology feels like magic — until you understand the engineering behind it.”** 🚀
+> 🚀 **Mindset**
+>
+> **“The best technology feels like magic —  
+> until you understand the engineering behind it.”**
+
+⚡ *Fun Fact:* I love turning complex problems into elegant intelligent systems.
+
+---
 <p align="center" style="margin-top:4px;"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:5f00ff&height=120&section=footer&width=1000" width="100%"/> </p>
