@@ -202,8 +202,21 @@ Built using **AI APIs, React, and modern web technologies.**
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
 </p>
 
+# 🌍 Open to Opportunities
 
+I’m always interested in **building impactful technology and collaborating on innovative ideas.**
 
+Open to opportunities in:
+
+• Artificial Intelligence & Machine Learning  
+• Full Stack Engineering  
+• Intelligent Automation Systems  
+• Data-Driven Platforms & Digital Products  
+
+🤝 Available for **global roles, collaborations, and high-impact freelance projects.**
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:5f00ff&height=3"/>
+</p>
 
 # 🏆 Achievements
 
